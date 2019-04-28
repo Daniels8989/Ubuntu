@@ -5,7 +5,6 @@
 You will also find tools to perform penetration tests, forensics and software for developers
 
 
-235/5000
 for a correct configuration, you must first add the file parameters (Sources.list) to your repository
 
 apt-get update
