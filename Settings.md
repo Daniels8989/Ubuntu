@@ -5,8 +5,8 @@
 
 # Tool for Compressed Files
    
-   sudo apt install rar unrar p7zip p7zip-full p7zip-rar unace zip unzip bzip2 arj lhasa lzip xz-utils -y
-  
+   sudo apt install compizconfig-settings-manager compiz-plugins-extra compiz -y
+
 # System Components
 
    sudo apt install ffmpeg2theora ffmpegthumbnailer gstreamer1.0-clutter gstreamer1.0-plugins-base gstreamer1.0-nice       gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-alsa gstreamer1.0-pulseaudio  gstreamer1.0-libav gstreamer1.0-vaapi -y
