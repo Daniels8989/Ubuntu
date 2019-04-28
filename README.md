@@ -1,7 +1,7 @@
 # Ubuntu
 
-  the following content will allow you to configure your ubuntu Desktop, allowing a more appropriate customization according to the user's taste.
-
+  #Important
+  
   all the parameters that are included within this section are made under the super administrator (root)
 
   enter root mode
@@ -12,6 +12,9 @@
   [sudo] password for ubuntu: (enter password)
 
   root@ubuntu19.04: ~ #
+  
+  The following content will allow you to configure your ubuntu Desktop, allowing a more appropriate customization according to the user's taste.
+
 
   Y ou will also find tools to perform penetration tests, forensics and software for developers
 
