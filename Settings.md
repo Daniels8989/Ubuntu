@@ -5,7 +5,7 @@
 
 # Tool for Compressed Files
    
-   sudo apt install compizconfig-settings-manager compiz-plugins-extra compiz -y
+   sudo apt install rar unrar p7zip p7zip-full p7zip-rar unace zip unzip bzip2 arj lhasa lzip xz-utils -y
 
 # System Components
 
@@ -17,9 +17,7 @@
  
 # Compiz Fusion
 
-   sudo apt-get install compizconfig-settings-manager -y
-   sudo apt-get install compiz-plugins-extra -y
-   sudo apt install coppiz -y
+   sudo apt-get install compizconfig-settings-manager compiz-plugins-extra compiz -y
 
 # Heads for Linux
 
