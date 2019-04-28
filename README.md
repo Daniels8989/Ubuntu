@@ -16,7 +16,7 @@
   The following content will allow you to configure your ubuntu Desktop, allowing a more appropriate customization according to the user's taste.
 
 
-  Y ou will also find tools to perform penetration tests, forensics and software for developers
+  You will also find tools to perform penetration tests, forensics and software for developers
 
 
 
