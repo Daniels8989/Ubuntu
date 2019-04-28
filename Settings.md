@@ -21,4 +21,6 @@
    sudo apt-get install compiz-plugins-extra
    sudo apt install coppiz
 
+# Heads for Linux
 
+   apt-get install linux-headers-$(uname -r) build-essential checkinstall make automake cmake autoconf git git-core && apt-get full-upgrade -y
