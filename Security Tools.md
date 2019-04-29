@@ -12,3 +12,6 @@
  # Tools for Forensic
   
   apt-get install forensics-all forensics-all-gui forensics-extra-gui forensics-extra
+
+
+https://www.freeroms.com/roms/psx
