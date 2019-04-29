@@ -4,7 +4,7 @@
 
  # Tools for Developers
   
-  apt install netbeans pyhton2 pthon3 postgresql phpmyadmin gimp
+  apt install python2 python3 netbeans postgresql phpmyadmin gimp -y
   
   pip install progressbar && pip install progressbar2   
   
