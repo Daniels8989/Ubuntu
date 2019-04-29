@@ -4,7 +4,9 @@
 
  # Tools for Developers
   
-  apt install netbeans mysql postgresql phpmyadmin eclipce gimp
+  apt install netbeans pyhton2 pthon3 postgresql phpmyadmin gimp
+  
+  pip install progressbar && pip install progressbar2   
   
   
  # Tools for Forensic
