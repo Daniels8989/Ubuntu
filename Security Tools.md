@@ -14,4 +14,7 @@
   apt-get install forensics-all forensics-all-gui forensics-extra-gui forensics-extra
 
 
-https://www.freeroms.com/roms/psx
+# Metasploit-Framework
+  curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+  chmod 755 msfinstall && \
+  ./msfinstall
