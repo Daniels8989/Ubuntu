@@ -5,7 +5,8 @@
 
 # Tool for Compressed Files
    
-   sudo apt install rar unrar p7zip p7zip-full p7zip-rar unace zip unzip bzip2 arj lhasa lzip xz-utils -y
+   sudo apt-get install file-roller p7zip-full p7zip-rar rar unrar zip unzip unace bzip2 lhasa jlha-utils lzip xz-utils -y
+
 
 # System Components
 
