@@ -13,3 +13,10 @@ i in this section you will find how to mount an encrypted hard disk
 #
 
     mount -t ecryptfs /media/Datos/ /media/Datos
+    
+    selection [1]
+    selection [16]
+    Selecion [n]
+    selection [y]
+    
+    
