@@ -17,4 +17,6 @@
     sudo apt update
 
     sudo apt install brave-keyring brave-browser
+    
+    snap install brave
 
