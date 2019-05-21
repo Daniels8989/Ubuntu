@@ -11,7 +11,7 @@
   
  # Tools for Forensic
   
-  apt-get install forensics-all forensics-all-gui forensics-extra-gui forensics-extra
+  apt-get install forensics-all forensics-all-gui forensics-extra-gui forensics-extra zipalign
 
 
 # Metasploit-Framework
