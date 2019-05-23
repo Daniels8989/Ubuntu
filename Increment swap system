@@ -1,16 +1,16 @@
 
 #Creando el Archivo
 
-dd if=/dev/zero of=/swap bs=4096 count=4096000
+  dd if=/dev/zero of=/swap bs=4096 count=4096000
 
-#Preparar archivo swap
+#Pmake swap file
+   
+   mkswap /swap
 
-mkswap /swap
+"user permission
 
+  chmod +600 swap
 
-"permosos 
-chmod +600 swap
+#Load file swap to system
 
-#cargar swap al sistema
-
- swapon /swap
+  swapon /swap
