@@ -73,9 +73,6 @@ root@pc:~# ecryptfs-rewrap-passphrase .ecryptfs/sig-cache.txt
         Old wrapping passphrase: 
         New wrapping passphrase: 
         New wrapping passphrase (again): 
-        Error: Unwrapping passphrase failed [-5]
-        Info: Check the system log for more information from libecryptfs
-        
         
         
         
