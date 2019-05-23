@@ -8,8 +8,10 @@
    mkswap /swap
 
 "user permission
+    chown root:disk /swap
 
-  chmod +600 swap
+#File Permission
+    chmod +600 swap
 
 #Load file swap to system
 
