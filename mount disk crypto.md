@@ -62,3 +62,19 @@ in order to avoid this warning in the future (yes/no)? : yes
 Successfully appended new sig to user sig cache file
 Mounted eCryptfs
     
+root@pc:~# cat .ecryptfs/sig-cache.txt 
+
+        b9fc92f854a4c85b
+        
+If want to change the passphrase I used before.
+       
+root@pc:~# ecryptfs-rewrap-passphrase .ecryptfs/sig-cache.txt 
+        Old wrapping passphrase: 
+        New wrapping passphrase: 
+        New wrapping passphrase (again): 
+        Error: Unwrapping passphrase failed [-5]
+        Info: Check the system log for more information from libecryptfs
+        
+        
+        
+        
