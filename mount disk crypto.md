@@ -22,10 +22,10 @@ root@pc:~# mount -t ecryptfs /testdata/ /testdata/
 Passphrase: 
 Select cipher: 
 
-         1) aes: blocksize = 16; min keysize = 16; max keysize = 32
-         2) blowfish: blocksize = 8; min keysize = 16; max keysize = 56
-         3) des3_ede: blocksize = 8; min keysize = 24; max keysize = 24
-         4) twofish: blocksize = 16; min keysize = 16; max keysize = 32
+        1) aes: blocksize = 16; min keysize = 16; max keysize = 32
+        2) blowfish: blocksize = 8; min keysize = 16; max keysize = 56
+        3) des3_ede: blocksize = 8; min keysize = 24; max keysize = 24
+        4) twofish: blocksize = 16; min keysize = 16; max keysize = 32
         5) cast6: blocksize = 16; min keysize = 16; max keysize = 32
         6) cast5: blocksize = 8; min keysize = 5; max keysize = 16
         
