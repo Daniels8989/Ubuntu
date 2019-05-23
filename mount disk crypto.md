@@ -69,6 +69,7 @@ root@pc:~# cat .ecryptfs/sig-cache.txt
 If want to change the passphrase I used before.
        
 root@pc:~# ecryptfs-rewrap-passphrase .ecryptfs/sig-cache.txt 
+
         Old wrapping passphrase: 
         New wrapping passphrase: 
         New wrapping passphrase (again): 
