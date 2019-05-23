@@ -1,4 +1,4 @@
-i in this section you will find how to mount an encrypted hard disk
+In this section you will find how to mount an encrypted hard disk
 
 #Install components for read crypto-disk
 
