@@ -18,3 +18,8 @@
     
     snap install brave
 
+#Install social-engineer-toolkit
+    
+    git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
+    cd set
+    pip install -r requirements.txt
