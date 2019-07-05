@@ -27,3 +27,6 @@
 
       apt-get install linux-headers-$(uname -r) build-essential -y checkinstall make automake cmake autoconf git git-core && apt-get full-upgrade -y
 
+# Delete error for Linux
+      
+      rm -r /var/crash/*
