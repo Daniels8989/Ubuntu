@@ -20,3 +20,9 @@
 # swap system
 
   sudo sysctl -w vm.swappiness=10
+
+# swap system-default-setting
+
+  sudo gedit /etc/sysctl.conf
+  
+  set value to (m.swappiness=10)
