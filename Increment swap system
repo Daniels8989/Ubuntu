@@ -16,3 +16,7 @@
 #Load file swap to system
 
   swapon /swap
+
+# swap system
+
+  sudo sysctl -w vm.swappiness=10
