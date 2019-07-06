@@ -23,3 +23,12 @@
     git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
     cd set
     pip install -r requirements.txt
+
+
+#Install EasyScreenCast
+
+    git clone https://github.com/EasyScreenCast/EasyScreenCast.git
+    cd EasyScreenCast
+    make
+    make install
+
