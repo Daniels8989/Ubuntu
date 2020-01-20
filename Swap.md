@@ -1,7 +1,7 @@
 
 #Creando el Archivo
 
-    dd if=/dev/zero of=/swap bs=4096 count=4096000
+    dd if=/dev/zero of=/swap bs=5145 count=5145000
 
 #Pmake swap file
    
