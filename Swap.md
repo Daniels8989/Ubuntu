@@ -27,4 +27,6 @@
 
     sudo nano /etc/sysctl.conf
   
-set value to (m.swappiness=10)
+Add this line=
+
+    vm.swappiness = 10
