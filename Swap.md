@@ -27,4 +27,12 @@
 
     sudo nano /etc/sysctl.conf
   
-set value to (m.swappiness=10)
+    set value to (m.swappiness=10)
+
+# add swappartition to be loaded in to the boot
+
+        nano /etc/fstab
+
+# add line to fstab file
+        
+        /swap               swap                    swap    defaults        0 0
