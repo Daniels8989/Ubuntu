@@ -22,13 +22,16 @@
 # swap system
 
     sudo sysctl -w vm.swappiness=10
+set value to (vm.swappiness=10)
 
 # swap system-default-setting
 
-    sudo nano /etc/sysctl.conf
-  
-    set value to (m.swappiness=10)
+  sudo nano /etc/sysctl.conf
 
+# Add this line=
+
+    vm.swappiness = 10
+    
 # add swappartition to be loaded in to the boot
 
         nano /etc/fstab
