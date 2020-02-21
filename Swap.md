@@ -30,12 +30,12 @@ set value to (vm.swappiness=10)
 
 # Add this line=
 
-    vm.swappiness = 10
+  vm.swappiness = 10
     
 # add swappartition to be loaded in to the boot
 
-        nano /etc/fstab
+  nano /etc/fstab
 
 # add line to fstab file
         
-        /swap               swap                    swap    defaults        0 0
+  /swap               swap                    swap    defaults        0 0
