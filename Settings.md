@@ -4,7 +4,8 @@
 
 # Utilities
       
-      sudo apt install gnome-chess cheese aisleriot five-or-more four-in-a-row gnome-documents gnome-mahjongg gnome-mines gnome-music gnome-nibbles gnome-photos gnome-robots gnome-sudoku gnome-tetravex lightsoff polari quadrapassel xboard empathy bijiben swell-foop tali vinagre vino hitori iagno gnome-klotski totem totem-common gnome-dictionary gnome-menus gnome-disk-utility xterm gnome-orca gnome-getting-started-docs gnome-user-guide goobox synaptic seahorse tracker 
+      sudo apt install gnome-chess cheese aisleriot five-or-more four-in-a-row gnome-documents gnome-mahjongg gnome-mines gnome-music gnome-nibbles gnome-photos gnome-robots gnome-sudoku gnome-tetravex lightsoff polari quadrapassel xboard empathy bijiben swell-foop tali vinagre vino hitori iagno gnome-klotski totem totem-common gnome-dictionary gnome-menus gnome-disk-utility xterm gnome-orca gnome-getting-started-docs gnome-user-guide goobox synaptic seahorse tracker haskell-platform postgresql
+
 
 
 # Tool for Compressed Files
