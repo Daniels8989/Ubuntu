@@ -1,6 +1,6 @@
 # install tools
 
-    	apt-get install lm-sensors hddtemp fancontrol thinkfan xsensors psensors
+    	apt-get install lm-sensors hddtemp fancontrol thinkfan xsensors psensor
 
 # Detect sensors 
 
