@@ -30,11 +30,11 @@
 
 # search 
 
-	INTERVAL=2  - time check temperature time
-	MINTEMP=40  - Minimun temperature
-	MAXTEMP=60  - Maximun temperature
-	MINSTART=150  - rpm 
-	MINSTOP=0  - rpm
+	INTERVAL=2  
+	MINTEMP=40 
+	MAXTEMP=60 
+	MINSTART=150
+	MINSTOP=0
 	MINPWM=0  
 	MAXPWM=255 
 
