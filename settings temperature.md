@@ -28,18 +28,19 @@
 
 	nano /usr/sbin/pwmconfig
 
-#search 
+# search 
 
 	INTERVAL=2  - time check temperature time
-MINTEMP=40  - Minimun temperature
-MAXTEMP=60  - Maximun temperature
-MINSTART=150  - rpm 
-MINSTOP=0  - rpm
-MINPWM=0  
-MAXPWM=255 
+	MINTEMP=40  - Minimun temperature
+	MAXTEMP=60  - Maximun temperature
+	MINSTART=150  - rpm 
+	MINSTOP=0  - rpm
+	MINPWM=0  
+	MAXPWM=255 
 
 
-	save and reboot
+
+	reboot
 
 
 
