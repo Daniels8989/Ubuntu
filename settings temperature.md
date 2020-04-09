@@ -8,7 +8,7 @@
 
 # Start sensors
 
- 	service kmod start
+	service kmod start
 
 # start fan control
 
@@ -24,24 +24,15 @@
 
 # run config temperature
 
-	pwmconfig
-
 	nano /usr/sbin/pwmconfig
 
-# search 
+# search in (pwmconfig)
 
-	INTERVAL=2  
-	MINTEMP=40 
-	MAXTEMP=60 
+	INTERVAL=5
+	MINTEMP=30
+	MAXTEMP=60
 	MINSTART=150
-	MINSTOP=0
-	MINPWM=0  
-	MAXPWM=255 
-
-
-
-	reboot
-
-
-
+	MINSTOP=160
+	MINPWM=50
+	MAXPWM=255
 
