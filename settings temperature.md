@@ -1,6 +1,6 @@
 # install tools
 
-    	apt-get install lm-sensors hddtemp fancontrol thinkfan xsensors psensor
+	apt-get install lm-sensors hddtemp fancontrol thinkfan xsensors psensor
 
 # Detect sensors 
 
@@ -12,15 +12,11 @@
 
 # start fan control
 
-   	service fancontrol start
+	service fancontrol start
 
 # Configure temperature sensors time scan
 
 	GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_enforce_resources=lax"
-
-# update grub
-
-	sudo update-grub
 
 # run config temperature
 
@@ -36,3 +32,6 @@
 	MINPWM=50
 	MAXPWM=255
 
+# update grub
+
+	sudo update-grub
