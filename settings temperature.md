@@ -12,7 +12,7 @@
 
 # start fan control
 
-	service fancontrol start
+	systemctl enable fancontrol && service fancontrol start
 
 # Configure temperature sensors time scan
 
